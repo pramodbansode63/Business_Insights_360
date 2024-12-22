@@ -179,3 +179,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Overall Report.gif](https://github.com/pramodbansode63/Business_Insights_360/blob/main/Resources/Overall.gif)
 
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
