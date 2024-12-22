@@ -176,21 +176,4 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 
-## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
-
-## Project Outcome
-
-By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
