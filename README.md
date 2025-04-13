@@ -183,3 +183,8 @@ In Home view, all the views button will be available. User will land on specific
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+## Business 360 Analysis - Brick & mortar and e-commerce ecommerce [Power BI | SQL | Excel | Dax Studio]
+• Designed a multi-view dashboard in Power BI for 6 departments (sales, finance, supply chain, executive, marketing, and products) of AtliQ hardware to understand Sales trends to Help the business process become more efficient by making data-driven decisions. 
+• Imported 2 different data sources (MySQL, and Excel) with more than 1 million records and performed data modeling. 
+• Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%
