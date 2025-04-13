@@ -1,0 +1,1 @@
+[Uploading Business 360 Analysis - Brick & mortar and e-commerce ecommerce [Power BI _ SQL _ Excel _ Dax Studio] Link Aug 202.  •_Optimized the report using DAX studio, which saved 30% of storage and improved performance by 10%…]()
